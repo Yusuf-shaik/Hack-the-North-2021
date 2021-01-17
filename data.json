@@ -1,0 +1,98 @@
+[
+    [
+        "Omar",
+        {
+            "english": "Hello",
+            "french": "bonjour"
+        },
+        "08:08"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "hi",
+            "french": "salut"
+        },
+        "08:32"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "how are you?",
+            "french": "Comment allez-vous?"
+        },
+        "08:37"
+    ],
+    [
+        "Omar",
+        {
+            "english": "bein, and you?",
+            "french": "bein, et tu?"
+        },
+        "08:49"
+    ],
+    [
+        "Omar",
+        {
+            "english": "Hello",
+            "french": "bonjour"
+        },
+        "08:49"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "hey",
+            "french": "Hey"
+        },
+        "08:52"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "how are you",
+            "french": "Comment allez-vous"
+        },
+        "08:53"
+    ],
+    [
+        "Omar",
+        {
+            "english": "good and you?",
+            "french": "bien, et tu?"
+        },
+        "09:08"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "hey",
+            "french": "Hey"
+        },
+        "09:10"
+    ],
+    [
+        "Omar",
+        {
+            "english": "Hello",
+            "french": "bonjour"
+        },
+        "09:10"
+    ],
+    [
+        "Yusuf",
+        {
+            "english": "can we do dinner tonight?",
+            "french": "pouvons-nous dÃ®ner ce soir?"
+        },
+        "09:11"
+    ],
+    [
+        "Omar",
+        {
+            "english": "sure!",
+            "french": "sûr!"
+        },
+        "09:11"
+    ]
+]
